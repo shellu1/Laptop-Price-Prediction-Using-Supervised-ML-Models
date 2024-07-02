@@ -1,4 +1,4 @@
-Laptop Price Prediction
+**Laptop Price Prediction**
 
 Objective: To develop a predictive model for estimating the price of laptops based on their specifications. By leveraging various supervised machine learning algorithms, we aim to identify the most accurate model for price prediction, providing valuable insights for both consumers and manufacturers in the laptop market.
 
